@@ -1,6 +1,6 @@
 package mission;
 
-public class mission2 {
+public class Mission2 {
 
 	public static void main(String[] args) {
 		int sum =0;
